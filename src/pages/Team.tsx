@@ -13,7 +13,7 @@ const teamMembers = [
     ],
     bio: "Ademola is a legal practitioner exposed to a vast area of law. He handles complex commercial transactions with ease and has handled various complex commercial litigations. Apart from considerable experience as a transaction lawyer, Ademola has advised on several practical areas of property law, Banking and Finance, and Loan facility. He has also advised companies on the various steps involved in foreign investments in Nigeria. He has considerable and wide-ranging experience of general commercial law, advising clients in transactions ranging from joint venture agreements to management and technical assistance agreements, and distribution and franchising agreements.",
     slug: "ademola-olarewaju",
-    image: "/src/assets/images/ademola.jpg",
+    image: "./src/assets/images/ademola.jpg",
   },
   {
     name: "Opeyemi Alfred Adekoya",
@@ -24,7 +24,7 @@ const teamMembers = [
     ],
     bio: "Opeyemi is a legal practitioner exposed to a variety of complex cases. He has advised several clients to embrace ADR as a veritable tool for efficient and speedy resolution of disputes and has appeared before the Lagos Multi-Door Courthouse and other quasi-judicial bodies. Opeyemi has provided advice for various companies in the areas of properties and perfection, finance and taxation, and allotment of shares. He has handled several complex transactions involving large-scale and multinational companies including IRS Airline, Chevron Oil (now MRS Oil), and others.",
     slug: "opeyemi-adekoya",
-    image: "/src/assets/images/opeyemi.jpg",
+    image: "./src/assets/images/opeyemi.jpg",
   },
 ];
 

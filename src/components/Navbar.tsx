@@ -23,7 +23,7 @@ const Navbar = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <span className="font-display flex items-center text-xl md:text-2xl font-semibold text-primary tracking-tight">
-              <img src="./src/assets/AO logo.png" alt="Logo" className="h-10 w-10 mr-1" />
+              <img src="./src/assets/ao-logo.png" alt="Logo" className="h-10 w-10 mr-1" />
               ADEMOLA OLAREWAJU & CO.
             </span>
           </Link>
